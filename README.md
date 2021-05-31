@@ -16,18 +16,8 @@
 :star: Challenge 10
 
 
-
-
-[
-<img width="595" alt="Screen Shot 2021-05-18 at 10 22 37 AM" src="https://user-images.githubusercontent.com/80833988/118696288-ff517900-b7c2-11eb-944d-50b5ca93cc94.png">
-](url)
-
-
-
 ## Table of content
-- [An executive summary](https://github.com/nataliaburrey/project_1#an-executive-summary)
-    - [Overview of the project and project goals](https://github.com/nataliaburrey/project_1#overview-of-the-project-and-project-goals)
-  
+- [Overview of the project and project goals](https://github.com/nataliaburrey/project_1#overview-of-the-project-and-project-goals) 
 - [Software version control](https://github.com/nataliaburrey/project_1#software-version-control)
     - [Libraries / interfaces](https://github.com/nataliaburrey/project_1#libraries--interfaces)
     - [Work with GitHub](https://github.com/nataliaburrey/project_1#work-with-github)
@@ -40,7 +30,7 @@
 
 
 
-## An executive summary
+## Overview of the project and project goals
 
 The goal is to create a Jupyter notebook that clusters cryptocurrencies by their performance in different time periods, then plot the results so that we can visually show the performance.
 
@@ -49,8 +39,6 @@ The goal is to create a Jupyter notebook that clusters cryptocurrencies by their
 <img width="1066" alt="Screen Shot 2021-05-31 at 5 05 32 AM" src="https://user-images.githubusercontent.com/80833988/120190715-d6bb7d00-c1cd-11eb-9b7c-98cb07ded68d.png">
 ](url)
 
-
-###  Overview of the project and project goals.
 
 
 ## Software version control
