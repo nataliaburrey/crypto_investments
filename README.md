@@ -110,10 +110,10 @@ Based on the Elbow curve vizualisation, most likely the optimal value of cluster
 The total explained variance of the three principal components is 0.8844285111826466. It means that more than 88% of the data included in our scaled data, and less than 12% of original data we will sacrafice for simplicity of visualization. 
 
 [
-<img width="712" alt="Screen Shot 2021-05-31 at 5 01 17 AM" src="https://user-images.githubusercontent.com/80833988/120190288-3e24fd00-c1cd-11eb-87ca-d514f3cfee04.png">
+<img width="1364" alt="Screen Shot 2021-05-31 at 2 27 44 PM" src="https://user-images.githubusercontent.com/80833988/120243416-5f610a00-c21c-11eb-9cc4-ded7a1d40e37.png">
 ](url)
 
-It seems like k=4 is the optimal number of clusters to group cryptocurrencies according to their profitability 
+It seems like k=4 is the optimal number of clusters to group cryptocurrencies according to their profitability. 5 clustersz does point you on some outliers, but it does not help you to better understand the data, so k=4 seems like an optimal number.
 
 ## Helps recruiters
 
