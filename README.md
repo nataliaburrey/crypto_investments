@@ -17,14 +17,14 @@
 
 
 ## Table of content
-- [Overview of the project and project goals](https://github.com/nataliaburrey/project_1#overview-of-the-project-and-project-goals) 
-- [Software version control](https://github.com/nataliaburrey/project_1#software-version-control)
-    - [Libraries / interfaces](https://github.com/nataliaburrey/project_1#libraries--interfaces)
-    - [Work with GitHub](https://github.com/nataliaburrey/project_1#work-with-github)
-    - [How to install](https://github.com/nataliaburrey/project_1#how-to-install)
-- [Results and summary of the analysis](https://github.com/nataliaburrey/project_1/blob/main/README.md#results-and-summary-of-the-analysis)
-- [Helps recruiters]()
-- [License](https://github.com/nataliaburrey/project_1#license)
+- [Overview of the project and project goals](https://github.com/nataliaburrey/crypto_investments/blob/main/README.md#overview-of-the-project-and-project-goals) 
+- [Software version control](https://github.com/nataliaburrey/crypto_investments/blob/main/README.md#software-version-control)
+    - [Libraries / interfaces](https://github.com/nataliaburrey/crypto_investments/blob/main/README.md#libraries--interfaces)
+    - [Work with GitHub](https://github.com/nataliaburrey/crypto_investments/blob/main/README.md#work-with-github)
+    - [How to install](https://github.com/nataliaburrey/crypto_investments/blob/main/README.md#how-to-install)
+- [Results and summary of the analysis]https://github.com/nataliaburrey/crypto_investments/blob/main/README.md#results-and-summary-of-the-analysis)
+- [Helps recruiters](https://github.com/nataliaburrey/crypto_investments/blob/main/README.md#helps-recruiters)
+- [License](https://github.com/nataliaburrey/crypto_investments/blob/main/README.md#license)
 
 
 
