@@ -22,7 +22,7 @@
     - [Libraries / interfaces](https://github.com/nataliaburrey/crypto_investments/blob/main/README.md#libraries--interfaces)
     - [Work with GitHub](https://github.com/nataliaburrey/crypto_investments/blob/main/README.md#work-with-github)
     - [How to install](https://github.com/nataliaburrey/crypto_investments/blob/main/README.md#how-to-install)
-- [Results and summary of the analysis]https://github.com/nataliaburrey/crypto_investments/blob/main/README.md#results-and-summary-of-the-analysis)
+- [Results and summary of the analysis](https://github.com/nataliaburrey/crypto_investments/blob/main/README.md#results-and-summary-of-the-analysis)
 - [Helps recruiters](https://github.com/nataliaburrey/crypto_investments/blob/main/README.md#helps-recruiters)
 - [License](https://github.com/nataliaburrey/crypto_investments/blob/main/README.md#license)
 
